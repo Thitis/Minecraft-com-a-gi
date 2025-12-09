@@ -1,0 +1,7 @@
+#Sat Dec 06 20:24:34 BRT 2025
+SHADOW_ENTITIES=true
+shadowDistance=512.0
+VOXEL_VOLUME_SIZE=256
+shadowMapResolution=4096
+LPV_CLOUDY_FOG=true
+VL_SAMPLES=12
