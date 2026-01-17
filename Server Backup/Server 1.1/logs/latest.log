@@ -1,0 +1,20 @@
+[00:29:31] [Thread-12/WARN]: Ruby says "this should work just fine", lets hope it does 😂
+[21:59:34] [Server thread/INFO]: Stopping the server
+[21:59:34] [Server thread/INFO]: [STDOUT]: LoginSystem: Server is stopping, saving passwords...
+[21:59:34] [Server thread/INFO]: [STDOUT]: LoginSystem: Saved 4 passwords to file.
+[21:59:34] [Server thread/INFO]: [STDOUT]: LoginSystem: Saved 4 passwords to file.
+[21:59:34] [Server thread/INFO]: Stopping server
+[21:59:34] [Server thread/INFO]: Saving players
+[21:59:34] [Server thread/INFO]: Saving worlds
+[21:59:34] [Physics thread/INFO]: [STDOUT]: Running deletePhysicsResources
+[21:59:34] [Physics thread/INFO]: Deleting VSPhysicsPipelineStage resources!
+[21:59:34] [Physics thread/WARN]: Physics pipeline ending
+[21:59:35] [DefaultDispatcher-worker-3/INFO]: VSPhysicsPipelineStage is fully deleted!
+[21:59:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[AGORA VAI]'/minecraft:overworld
+[21:59:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[AGORA VAI]'/minecraft:the_nether
+[21:59:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[AGORA VAI]'/minecraft:the_end
+[21:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (AGORA VAI): All chunks are saved
+[21:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:59:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:59:36] [Server thread/INFO]: Thread Query Listener stopped
